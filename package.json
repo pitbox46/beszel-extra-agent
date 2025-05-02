@@ -1,0 +1,18 @@
+{
+  "name": "beszel_bat",
+  "version": "1.0.0",
+  "description": "Adds battery level to Beszel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beszel"
+  ],
+  "author": "pitbox46",
+  "license": "MIT",
+  "dependencies": {
+    "eventsource": "^3.0.6",
+    "pocketbase": "^0.26.0"
+  }
+}
